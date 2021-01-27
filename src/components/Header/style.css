@@ -16,3 +16,13 @@
 .headerMenu a:hover {
   color: #5f9ea0;
 }
+
+.socialLinks {
+  width: 12%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.socialLinks:hover {
+  cursor: pointer;
+}
